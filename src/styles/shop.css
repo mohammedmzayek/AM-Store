@@ -1,0 +1,45 @@
+.filter_widget select {
+  width: 100%;
+  padding: 8px 20px;
+  border: 1px solid var(--primary-color);
+  cursor: pointer;
+  border-radius: 5px;
+  background: var(--oneColor);
+  color: #fff;
+}
+.filter_widget select:focus {
+  outline: none !important;
+}
+.filter_widget select option {
+  font-size: 0.9rem;
+}
+.search_shop {
+  background: #2d2928;
+  color: white;
+  height: 50px;
+}
+@media (max-width: 768px) {
+  .filter_widget {
+    margin-bottom: 30px;
+  }
+  .filter_widget select {
+    padding: 7px 20px;
+    font-size: 0.9rem;
+  }
+}
+
+.titleh5 {
+  padding: 15px 10px;
+  background-color: var(--twoColor);
+  color: white;
+}
+.linkTitle {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+.linkTitle span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
