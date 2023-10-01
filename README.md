@@ -1,4 +1,5 @@
 # AM-Store
+Full Stack React Furniture Ecommerce Website using ReactJs, Redux Toolkit, Firebase
 ## `npm start`
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
