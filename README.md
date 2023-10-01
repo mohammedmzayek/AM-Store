@@ -1,5 +1,35 @@
 # AM-Store
 Full Stack React Furniture Ecommerce Website using ReactJs, Redux Toolkit, Firebase
+# Features
+* Add products to cart and manage your cart by increase and decrease quantity or delete from cart
+* Save cart items in local storage Filter products by category
+* Use search by name to view the product and its details
+* can see reviews and post a review
+* can see reviews for each product and post the review and see the products related to it
+* Authentication login and  sign up
+* Authorization only users can doing check out
+* only admin can control dashboard
+* control products (delete it or add new)
+* Admin control users
+# Technologies Used
+* React
+* Reactjs
+* Redux toolkit
+* React router
+* rest apis
+* hooks
+* Motion framer
+* Sweetalert
+* Toastify
+* Html5
+* Css3
+* Bootstrap
+* Javascript
+* Firebase authentication
+* Firestore database
+
+# Available Scripts
+In the project directory, you can run:
 ## `npm start`
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in your browser.
@@ -28,3 +58,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 ## `npm run build` fails to minify
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# Contributing
+Contributions are welcome! If you have any suggestions or improvements, please create a pull request or send me an Email on mohammedmzayek9@gmail.com
