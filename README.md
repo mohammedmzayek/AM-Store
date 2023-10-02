@@ -1,6 +1,7 @@
 # AM-Store
 Full Stack React Furniture Ecommerce Website using ReactJs, Redux Toolkit, Firebase
 # Features
+* Smart tools that help the customer choose the appropriate computer
 * Add products to cart and manage your cart by increase and decrease quantity or delete from cart
 * Save cart items in local storage Filter products by category
 * Use search by name to view the product and its details
